@@ -4,7 +4,7 @@ Thank you for checking out my GitHub page!
 ##### I'm a bioinformatician with experience in Perl, Python, JavaScript, MySQL, Django, ReactJS, and NGS data analysis.
 
 
-Here's are some of the web apps that I have worked on:
+Some of the projects on which I've worked are listed here:
 
 - AMA : An automatic pipeline for exploration of SRA datasets with sequences as a query (https://github.com/maurya-anand/AMA) (Perl)
 
