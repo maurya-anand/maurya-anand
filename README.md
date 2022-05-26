@@ -6,12 +6,13 @@ Thank you for checking out my GitHub page!
 
 Here's are some of the web apps that I have worked on:
 
+- AMA : An automatic pipeline for exploration of SRA datasets with sequences as a query (https://github.com/maurya-anand/AMA) (Perl)
+
 - Word usage:   [https://dictionary-aa43b.web.app/](https://dictionary-aa43b.web.app/) (ReactJS) [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/akm0001/word-search)
-   
-- Covid19 tracker using Django:   [https://covidlive.herokuapp.com/](https://covidlive.herokuapp.com/) (Python Django)
 
 - Netflix-clone:   [https://netflix-react-a5dbe.web.app/](https://netflix-react-a5dbe.web.app/) (ReactJS)
 
+- Covid19 tracker using Django:   [https://covidlive.herokuapp.com/](https://covidlive.herokuapp.com/) (Python Django)
 
 How to reach me:    &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/anand-maurya-/) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/googlemessages.svg' alt='github' height='20'>](<mailto:anandmaurya@hotmail.com>) 
 
