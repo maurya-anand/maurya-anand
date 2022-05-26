@@ -1,7 +1,7 @@
 ## Hi there, I am Anand.
 Thank you for checking out my GitHub page! 
 
-##### I am a Bioinformatician and I am familiar with Perl, Python, JavaScript, MySQL, Django, ReactJS and NGS data analysis.
+##### I'm a bioinformatician with experience in Perl, Python, JavaScript, MySQL, Django, ReactJS, and NGS data analysis.
 
 
 Here's are some of the web apps that I have worked on:
