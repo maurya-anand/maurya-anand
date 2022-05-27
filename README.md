@@ -8,11 +8,11 @@ Some of the projects on which I've worked are listed here:
 
 - AMA : An automatic pipeline for exploration of SRA datasets with sequences as a query (https://github.com/maurya-anand/AMA) (Perl)
 
-- Word usage:   [https://dictionary-aa43b.web.app/](https://dictionary-aa43b.web.app/) (ReactJS, Google Firebase)
+- Word usage:   [https://dictionary-aa43b.web.app/](https://dictionary-aa43b.web.app/) (ReactJS)
 
-- Netflix-clone:   [https://netflix-react-a5dbe.web.app/](https://netflix-react-a5dbe.web.app/) (ReactJS, Google Firebase)
+- Netflix-clone:   [https://netflix-react-a5dbe.web.app/](https://netflix-react-a5dbe.web.app/) (ReactJS)
 
-- Covid19 tracker using Django:   [https://covidlive.herokuapp.com/](https://covidlive.herokuapp.com/) (Python Django, HighchartsJS, Heroku)
+- Covid19 tracker using Django:   [https://covidlive.herokuapp.com/](https://covidlive.herokuapp.com/) (Python Django, HighchartsJS)
 
 How to reach me:    &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/anand-maurya-/) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/googlemessages.svg' alt='github' height='20'>](<mailto:anandmaurya@hotmail.com>) 
 
