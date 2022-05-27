@@ -8,7 +8,7 @@ Some of the projects on which I've worked are listed here:
 
 - AMA : An automatic pipeline for exploration of SRA datasets with sequences as a query (https://github.com/maurya-anand/AMA) (Perl)
 
-- Word usage:   [https://dictionary-aa43b.web.app/](https://dictionary-aa43b.web.app/) (ReactJS) [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/akm0001/word-search)
+- Word usage:   [https://dictionary-aa43b.web.app/](https://dictionary-aa43b.web.app/) (ReactJS)
 
 - Netflix-clone:   [https://netflix-react-a5dbe.web.app/](https://netflix-react-a5dbe.web.app/) (ReactJS)
 
