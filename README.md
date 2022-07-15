@@ -1,21 +1,102 @@
-## Hi there, I am Anand.
-Thank you for checking out my GitHub page! 
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"/>
 
-##### I'm a bioinformatician with experience in Perl, Python, JavaScript, MySQL, Django, ReactJS, and NGS data analysis.
+Thank you very much for checking out my GitHub page!
 
+## 🎓 About Me
 
-Some of the projects on which I've worked are listed here:
+I'm a bioinformatician with experience in next-generation sequencing (NGS) data analysis, data analysis pipeline creation, and full-stack web development.
 
-- AMA : An automatic pipeline for exploration of SRA datasets with sequences as a query (https://github.com/maurya-anand/AMA) (Perl)
+## 📝 Projects
 
-- Word usage:   [https://dictionary-aa43b.web.app/](https://dictionary-aa43b.web.app/) (ReactJS)
+-   AMA : An automatic pipeline for exploration of SRA datasets with sequences as a query (<https://github.com/maurya-anand/AMA>) (Perl)
 
-- Netflix-clone:   [https://netflix-react-a5dbe.web.app/](https://netflix-react-a5dbe.web.app/) (ReactJS)
+-   Covid19 tracker using Django: <https://covidlive.herokuapp.com/> (Python Django, HighchartsJS)
 
-- Covid19 tracker using Django:   [https://covidlive.herokuapp.com/](https://covidlive.herokuapp.com/) (Python Django, HighchartsJS)
+-   Word usage: <https://dictionary-aa43b.web.app/> (ReactJS)
 
-How to reach me:    &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/anand-maurya-/) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/googlemessages.svg' alt='github' height='20'>](<mailto:anandmaurya@hotmail.com>) 
+-   Netflix-clone: <https://netflix-react-a5dbe.web.app/> (ReactJS)
+
+## 🛠️ Skills
+
+### Bioinformatics
+
+-   Somatic and germline variant calling
+
+-   Variant annotation
+
+-   Pipeline development
+
+-   WGS, WES and RNA-seq data analysis
+
+### Languages
+
+-   Perl
+
+-   Python
+
+-   Javascript
+
+-   R
+
+-   SQL
+
+-   Nextflow
+
+### Web Development
+
+-   React (Javascript)
+
+-   Django (Python)
+
+-   Shiny (R)
+
+-   PHP
+
+-   MySQL
+
+-   Bootstrap
+
+-   jQuery
+
+-   Axios
+
+-   Django REST framework
+
+-   Perl CGI
+
+-   Highcharts
+
+-   D3
+
+### Version control
+
+-   Git
+-   SVN
+
+### Package management
+
+-   Docker
+
+-   Conda/Bioconda
+
+### HPC cluster
+
+-   SLURM
+
+### Backend as a Service (BaaS)
+
+-   Heroku
+
+-   Firebase
+
+### Project managment
+
+-   Redmine
+
+## 🔗 Links
+
+[![github](https://img.shields.io/badge/GitHub-0078D4?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/maurya-anand) [![hotmail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:anandmaurya@@hotmail.com) [![linked-in](https://img.shields.io/badge/Linked_In-0078D4?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anand-maurya-/)
+
 
 ![Profile views](https://gpvc.arturio.dev/akm0001) 
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akm0001&show_icons=true) -->
