@@ -95,7 +95,7 @@ I'm a bioinformatician with experience in next-generation sequencing (NGS) data 
 
 ## 🔗 Links
 
-[![github](https://img.shields.io/badge/GitHub-0078D4?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/maurya-anand) [![hotmail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:anandmaurya@@hotmail.com) [![linked-in](https://img.shields.io/badge/Linked_In-0078D4?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anand-maurya-/)
+[![github](https://img.shields.io/badge/GitHub-0078D4?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/maurya-anand) [![hotmail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:anandmaurya@hotmail.com) [![linked-in](https://img.shields.io/badge/Linked_In-0078D4?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anand-maurya-/)
 
 
 ![Profile views](https://gpvc.arturio.dev/akm0001) 
