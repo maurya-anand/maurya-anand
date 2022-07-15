@@ -68,6 +68,8 @@ I'm a bioinformatician with experience in next-generation sequencing (NGS) data 
 
 -   D3
 
+-   Plotly
+
 ### Version control
 
 -   Git
