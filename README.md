@@ -30,75 +30,32 @@ I'm a bioinformatician with experience in next-generation sequencing (NGS) data 
 
 ### Languages
 
--   Perl
-
--   Python
-
--   Javascript
-
--   R
-
--   SQL
-
--   Nextflow
+![Perl](https://img.shields.io/badge/Perl-0078D4?style=for-the-badge&logo=Perl&logoColor=white) ![Python](https://img.shields.io/badge/Python-0078D4?style=for-the-badge&logo=Python&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-0078D4?style=for-the-badge&logo=Javascript&logoColor=white) ![R](https://img.shields.io/badge/R-0078D4?style=for-the-badge&logo=R&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-0078D4?style=for-the-badge&logo=MySQL&logoColor=white) ![Nextflow](https://img.shields.io/badge/Nextflow-0078D4?style=for-the-badge&logo=Nextflow&logoColor=white)
 
 ### Web Development
 
--   React (Javascript)
-
--   Django (Python)
-
--   Shiny (R)
-
--   PHP
-
--   MySQL
-
--   Bootstrap
-
--   jQuery
-
--   Axios
-
--   Django REST framework
-
--   Perl CGI
-
--   Highcharts
-
--   D3
-
--   Plotly
+![React](https://img.shields.io/badge/React-0078D4?style=for-the-badge&logo=React&logoColor=white) ![Django](https://img.shields.io/badge/Django-0078D4?style=for-the-badge&logo=Django&logoColor=white) ![Shiny](https://img.shields.io/badge/Shiny-0078D4?style=for-the-badge&logo=R&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-0078D4?style=for-the-badge&logo=PHP&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-0078D4?style=for-the-badge&logo=Bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0078D4?style=for-the-badge&logo=jQuery&logoColor=white) ![Axios](https://img.shields.io/badge/Axios-0078D4?style=for-the-badge&logo=npm&logoColor=white) ![Django REST framework](https://img.shields.io/badge/Django%20REST%20framework-0078D4?style=for-the-badge&logo=Django&logoColor=white) ![Perl CGI](https://img.shields.io/badge/Perl%20CGI-0078D4?style=for-the-badge&logo=Perl&logoColor=white) ![Highcharts](https://img.shields.io/badge/Highcharts-0078D4?style=for-the-badge&logo=Javascript&logoColor=white) ![D3.js](https://img.shields.io/badge/D3.js-0078D4?style=for-the-badge&logo=D3.js&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-0078D4?style=for-the-badge&logo=Plotly&logoColor=white)
 
 ### Version control
 
--   Git
--   SVN
+![Git](https://img.shields.io/badge/Git-0078D4?style=for-the-badge&logo=Git&logoColor=white) ![Subversion](https://img.shields.io/badge/SVN-0078D4?style=for-the-badge&logo=Subversion&logoColor=white)
 
 ### Package management
 
--   Docker
-
--   Conda/Bioconda
+![Docker](https://img.shields.io/badge/Docker-0078D4?style=for-the-badge&logo=Docker&logoColor=white) ![Conda](https://img.shields.io/badge/Conda-Bioconda-0078D4?style=for-the-badge&logo=Anaconda&logoColor=white)
 
 ### HPC cluster
 
--   SLURM
+![Slurm](https://img.shields.io/badge/Slurm-0078D4?style=for-the-badge&logo=Slurm&logoColor=white)
 
 ### Backend as a Service (BaaS)
 
--   Heroku
-
--   Firebase
+![Heroku](https://img.shields.io/badge/Heroku-0078D4?style=for-the-badge&logo=Heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-0078D4?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ### Project managment
 
--   Redmine
+![Redmine](https://img.shields.io/badge/Redmine-0078D4?style=for-the-badge&logo=Redmine&logoColor=white)
 
 ## 🔗 Links
 
-[![github](https://img.shields.io/badge/GitHub-0078D4?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/maurya-anand) [![hotmail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:anandmaurya@hotmail.com) [![linked-in](https://img.shields.io/badge/Linked_In-0078D4?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anand-maurya-/)
-
-
-![Profile views](https://gpvc.arturio.dev/akm0001) 
-
+[![github](https://img.shields.io/badge/GitHub-0078D4?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/maurya-anand) [![hotmail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:anandmaurya@@hotmail.com) [![linked-in](https://img.shields.io/badge/Linked_In-0078D4?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anand-maurya-/)
