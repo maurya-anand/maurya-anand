@@ -12,7 +12,7 @@ I'm a bioinformatician with experience in next-generation sequencing (NGS) data 
 
 -   AMA : An automatic pipeline for exploration of SRA datasets with sequences as a query (<https://github.com/maurya-anand/AMA>) (Perl, Docker)
 
--   Covid19 tracker using Django: <https://covidlive.herokuapp.com/> (Python Django, HighchartsJS)
+-   Covid19 tracker using Django: <https://github.com/maurya-anand/covid19live> (Python Django, HighchartsJS)
 
 -   Word usage: <https://dictionary-aa43b.web.app/> (ReactJS)
 
