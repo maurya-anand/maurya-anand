@@ -10,7 +10,7 @@ I'm a bioinformatician with experience in next-generation sequencing (NGS) data 
 
 -   SRA annotator : A command-line tool for retrieving annotations from the NCBI SRA database. (https://github.com/maurya-anand/sra-annotator) (Python)
 
--   AMA : An automatic pipeline for exploration of SRA datasets with sequences as a query (<https://github.com/maurya-anand/AMA>) (Perl, Docker)
+-   ARA (Automated Record Analysis) : An automatic pipeline for exploration of SRA datasets with sequences as a query (<https://github.com/maurya-anand/ARA>) (Perl, Docker)
 
 -   Covid19 tracker using Django: <https://github.com/maurya-anand/covid19live> (Python Django, HighchartsJS)
 
