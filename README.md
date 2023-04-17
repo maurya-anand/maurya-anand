@@ -8,16 +8,24 @@ I'm a bioinformatician with experience in next-generation sequencing (NGS) data 
 
 ## 📝 Projects
 
--   SRA annotator : A command-line tool for retrieving annotations from the NCBI SRA database. (https://github.com/maurya-anand/sra-annotator) (Python)
+-   SRA annotator : A command-line tool for retrieving annotations from the NCBI SRA database. (Python)
+    - Repo: https://github.com/maurya-anand/sra-annotator
 
--   ARA (Automated Record Analysis) : An automatic pipeline for exploration of SRA datasets with sequences as a query (<https://github.com/maurya-anand/ARA>) (Perl, Docker)
+-   ARA (Automated Record Analysis) : An automatic pipeline for exploration of SRA datasets with sequences as a query (Perl, Docker)
+    - Repo: https://github.com/maurya-anand/ARA
 
--   Covid19 tracker using Django: <https://github.com/maurya-anand/covid19live> (Python Django, HighchartsJS)
-
--   Word usage: <https://dictionary-aa43b.web.app/> (ReactJS)
-
--   Netflix-clone: <https://netflix-react-a5dbe.web.app/> (ReactJS)
-
+-   Covid19 tracker (Python Django, HighchartsJS)
+    - Demo: https://covidlive-8jvw.onrender.com/
+    - Repo: https://github.com/maurya-anand/covid19live
+    
+-   Word usage using dictionary API (ReactJS)
+    - Demo: https://dictionary-aa43b.web.app/
+    - Repo: https://github.com/maurya-anand/react-dictionary
+    
+-   Netflix-clone using themoviedb API (ReactJS)
+    - Demo: https://netflix-react-a5dbe.web.app/
+    - Repo: https://github.com/maurya-anand/netflix-react
+    
 ## 🛠️ Skills
 
 ### Bioinformatics
