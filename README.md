@@ -40,7 +40,7 @@ I'm a bioinformatician with experience in next-generation sequencing (NGS) data 
 
 ### Languages
 
-![Perl](https://img.shields.io/badge/Perl-0078D4?style=for-the-badge&logo=Perl&logoColor=white) ![Python](https://img.shields.io/badge/Python-0078D4?style=for-the-badge&logo=Python&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-0078D4?style=for-the-badge&logo=Javascript&logoColor=white) ![R](https://img.shields.io/badge/R-0078D4?style=for-the-badge&logo=R&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-0078D4?style=for-the-badge&logo=MySQL&logoColor=white) ![Nextflow](https://img.shields.io/badge/Nextflow-0078D4?style=for-the-badge&logo=Nextflow&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-0078D4?style=for-the-badge&logo=Perl&logoColor=white) ![Python](https://img.shields.io/badge/Python-0078D4?style=for-the-badge&logo=Python&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-0078D4?style=for-the-badge&logo=Javascript&logoColor=white) ![R](https://img.shields.io/badge/R-0078D4?style=for-the-badge&logo=R&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-0078D4?style=for-the-badge&logo=MySQL&logoColor=white) ![Nextflow](https://img.shields.io/badge/Nextflow-0078D4?style=for-the-badge&logo=Nextflow&logoColor=white) ![WDL](https://img.shields.io/badge/WDL-0078D4?style=for-the-badge&logo=WDL&logoColor=white)
 
 ### Web Development
 
@@ -60,7 +60,7 @@ I'm a bioinformatician with experience in next-generation sequencing (NGS) data 
 
 ### Backend as a Service (BaaS)
 
-![Heroku](https://img.shields.io/badge/Heroku-0078D4?style=for-the-badge&logo=Heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-0078D4?style=for-the-badge&logo=Firebase&logoColor=white)
+![Render](https://img.shields.io/badge/Render-0078D4?style=for-the-badge&logo=Render&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-0078D4?style=for-the-badge&logo=Heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-0078D4?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ### Project managment
 
