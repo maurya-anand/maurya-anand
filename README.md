@@ -40,7 +40,11 @@ I'm a bioinformatician with experience in next-generation sequencing (NGS) data 
 
 ### Languages
 
-![Perl](https://img.shields.io/badge/Perl-0078D4?style=for-the-badge&logo=Perl&logoColor=white) ![Python](https://img.shields.io/badge/Python-0078D4?style=for-the-badge&logo=Python&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-0078D4?style=for-the-badge&logo=Javascript&logoColor=white) ![R](https://img.shields.io/badge/R-0078D4?style=for-the-badge&logo=R&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-0078D4?style=for-the-badge&logo=MySQL&logoColor=white) ![Nextflow](https://img.shields.io/badge/Nextflow-0078D4?style=for-the-badge&logo=Nextflow&logoColor=white) ![WDL](https://img.shields.io/badge/WDL-0078D4?style=for-the-badge&logo=WDL&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-0078D4?style=for-the-badge&logo=Perl&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-0078D4?style=for-the-badge&logo=GNU-Bash&logoColor=white) ![Python](https://img.shields.io/badge/Python-0078D4?style=for-the-badge&logo=Python&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-0078D4?style=for-the-badge&logo=Javascript&logoColor=white) ![R](https://img.shields.io/badge/R-0078D4?style=for-the-badge&logo=R&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-0078D4?style=for-the-badge&logo=MySQL&logoColor=white) 
+
+### Workflow management
+
+![Nextflow](https://img.shields.io/badge/Nextflow-0078D4?style=for-the-badge&logo=Nextflow&logoColor=white) ![WDL](https://img.shields.io/badge/MAKE-0078D4?style=for-the-badge&logo=GNU&logoColor=white) ![WDL](https://img.shields.io/badge/WDL-0078D4?style=for-the-badge&logo=WDL&logoColor=white)
 
 ### Web Development
 
@@ -52,19 +56,21 @@ I'm a bioinformatician with experience in next-generation sequencing (NGS) data 
 
 ### Package management
 
-![Docker](https://img.shields.io/badge/Docker-0078D4?style=for-the-badge&logo=Docker&logoColor=white) ![Conda](https://img.shields.io/badge/Conda-Bioconda-0078D4?style=for-the-badge&logo=Anaconda&logoColor=white)
-
-### HPC cluster
-
-![Slurm](https://img.shields.io/badge/Slurm-0078D4?style=for-the-badge&logo=Slurm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0078D4?style=for-the-badge&logo=Docker&logoColor=white) ![Conda](https://img.shields.io/badge/Conda%20Bioconda-0078D4?style=for-the-badge&logo=Anaconda&logoColor=white)
 
 ### Backend as a Service (BaaS)
 
 ![Render](https://img.shields.io/badge/Render-0078D4?style=for-the-badge&logo=Render&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-0078D4?style=for-the-badge&logo=Heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-0078D4?style=for-the-badge&logo=Firebase&logoColor=white)
 
+### DevOps
+
+![Jenkins](https://img.shields.io/badge/Jenkins-0078D4?style=for-the-badge&logo=Jenkins&logoColor=white)
+![Github Actions](https://img.shields.io/badge/Github%20Actions-0078D4?style=for-the-badge&logo=Github-Actions&logoColor=white)
+
 ### Project managment
 
 ![Redmine](https://img.shields.io/badge/Redmine-0078D4?style=for-the-badge&logo=Redmine&logoColor=white)
+![Github Actions](https://img.shields.io/badge/Github%20Projects-0078D4?style=for-the-badge&logo=Github&logoColor=white)
 
 ## 🔗 Links
 
