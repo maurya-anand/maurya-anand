@@ -44,7 +44,7 @@ I'm a bioinformatician with experience in next-generation sequencing (NGS) data 
 
 ### Workflow management
 
-![Nextflow](https://img.shields.io/badge/Nextflow-0078D4?style=for-the-badge&logo=Nextflow&logoColor=white) ![WDL](https://img.shields.io/badge/MAKE-0078D4?style=for-the-badge&logo=GNU&logoColor=white) ![WDL](https://img.shields.io/badge/WDL-0078D4?style=for-the-badge&logo=WDL&logoColor=white)
+![Nextflow](https://img.shields.io/badge/Nextflow-0078D4?style=for-the-badge&logo=Nextflow&logoColor=white) ![GNU Make](https://img.shields.io/badge/MAKE-0078D4?style=for-the-badge&logo=GNU&logoColor=white) ![GNU Parallel](https://img.shields.io/badge/Parallel-0078D4?style=for-the-badge&logo=GNU&logoColor=white) ![WDL](https://img.shields.io/badge/WDL-0078D4?style=for-the-badge&logo=WDL&logoColor=white)
 
 ### Web Development
 
