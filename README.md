@@ -30,13 +30,9 @@ I'm a bioinformatician with experience in next-generation sequencing (NGS) data 
 
 ### Bioinformatics
 
--   Somatic and germline variant calling
-
--   Variant annotation
-
--   Pipeline development
-
 -   WGS, WES and RNA-seq data analysis
+-   Somatic and germline variant calling and annotation
+-   Data analysis pipeline development and automation
 
 ### Languages
 
@@ -71,7 +67,3 @@ I'm a bioinformatician with experience in next-generation sequencing (NGS) data 
 
 ![Redmine](https://img.shields.io/badge/Redmine-0078D4?style=for-the-badge&logo=Redmine&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/Github%20Projects-0078D4?style=for-the-badge&logo=Github&logoColor=white)
-
-## 🔗 Links
-
-[![github](https://img.shields.io/badge/GitHub-0078D4?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/maurya-anand) [![hotmail](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:anandmaurya@@hotmail.com) [![linkedIn](https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anand-maurya-/)
