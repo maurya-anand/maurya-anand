@@ -52,15 +52,15 @@ In my previous roles, I've developed databases containing variant annotations an
 
 ![Git](https://img.shields.io/badge/Git-0078D4?style=for-the-badge&logo=Git&logoColor=white) ![Subversion](https://img.shields.io/badge/SVN-0078D4?style=for-the-badge&logo=Subversion&logoColor=white)
 
-### Package management
+### Containerization & Package management
 
-![Docker](https://img.shields.io/badge/Docker-0078D4?style=for-the-badge&logo=Docker&logoColor=white) ![Conda](https://img.shields.io/badge/Conda%20Bioconda-0078D4?style=for-the-badge&logo=Anaconda&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0078D4?style=for-the-badge&logo=Docker&logoColor=white) ![Conda](https://img.shields.io/badge/Conda%20Bioconda-0078D4?style=for-the-badge&logo=Anaconda&logoColor=white) ![Mamba](https://img.shields.io/badge/Mamba-0078D4?style=for-the-badge&logo=condaforge&logoColor=white) ![Pip](https://img.shields.io/badge/Pip-0078D4?style=for-the-badge&logo=pypi&logoColor=white)
 
 ### Backend as a Service (BaaS)
 
 ![Render](https://img.shields.io/badge/Render-0078D4?style=for-the-badge&logo=Render&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-0078D4?style=for-the-badge&logo=Heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-0078D4?style=for-the-badge&logo=Firebase&logoColor=white)
 
-### DevOps
+### CI/CD
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-0078D4?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/Github%20Actions-0078D4?style=for-the-badge&logo=Github-Actions&logoColor=white)
