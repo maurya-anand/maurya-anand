@@ -11,7 +11,7 @@ In my previous roles, I've developed databases containing variant annotations an
 ## 📝 Projects
 
 - Developed and published various workflows using the Workflow Description Language (WDL):
-    - Dockstore: https://dockstore.org/search?organization=maurya-anand&organization=anand-imcm&organization=IMCM-OX&entryType=workflows&searchMode=files
+    - Dockstore: https://dockstore.org/search?all_authors.name.keyword=Anand%20Maurya&organization=anand-imcm&organization=IMCM-OX&organization=maurya-anand&entryType=workflows&searchMode=files
 
 -   SRA annotator : A command-line tool for retrieving annotations from the NCBI SRA database. (Python)
     - Repo: https://github.com/maurya-anand/sra-annotator
