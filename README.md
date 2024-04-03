@@ -4,30 +4,30 @@ Thank you very much for checking out my GitHub page!
 
 ## 🎓 About Me
 
-I'm a Bioinformatician and full-stack web developer, experienced in developing and automating next-generation sequencing (NGS) data analysis pipelines. My experience spans various aspects of bioinformatics and web development, including the analysis of clinical whole-exome, whole-genome, and RNA seq samples.
+I'm a Bioinformatician and full-stack web developer, experienced in developing and automating next-generation sequencing (NGS) data analysis pipelines. My experience spans various aspects of bioinformatics and web development, including the analysis of clinical whole-exome, whole-genome, and RNA-seq samples.
 
-In my previous roles, I've developed databases containing variant annotations and their allele frequencies across different populations using in-house cohorts. I've also created a real-time dashboard for users to monitor the status of the NGS variant calling pipeline and access QC metrics and other results. Additionally, I've contributed to the development of a novel machine learning approach that predicts the immunogenicity of a peptide using various features derived from amino-acid composition, HLA-binding, structural features, peptide processing, and peptide transport. My work experience also includes developing scripts and tools for interacting with public databases.
+In my previous roles, I've developed databases containing variant annotations and their allele frequencies across different populations using in-house cohorts. I've also created a real-time dashboard for users to monitor the status of the NGS variant calling pipeline and access QC metrics and other results. Additionally, I've contributed to the development of a novel machine-learning approach that predicts the immunogenicity of a peptide using various features derived from amino-acid composition, HLA-binding, structural features, peptide processing, and peptide transport. My work experience also includes developing scripts and tools for interacting with public databases.
 
 ## 📝 Projects
 
 - Developed and published various workflows using the Workflow Description Language (WDL):
     - [Visit Dockstore](https://dockstore.org/search?all_authors.name.keyword=Anand%20Maurya&organization=anand-imcm&organization=IMCM-OX&organization=maurya-anand&entryType=workflows&searchMode=files)
 
--   SRA annotator : A command-line tool for retrieving annotations from the NCBI SRA database. (Python)
+-   SRA annotator: A command-line tool for retrieving annotations from the NCBI SRA database. (Python)
     - Repo: https://github.com/maurya-anand/sra-annotator
 
--   ARA (Automated Record Analysis) : An automatic pipeline for exploration of SRA datasets with sequences as a query (Perl, Docker)
+-   ARA (Automated Record Analysis): An automatic pipeline for exploration of SRA datasets with sequences as a query (Perl, Docker)
     - Repo: https://github.com/maurya-anand/ARA
 
--   Covid19 tracker (Python Django, HighchartsJS)
+-   Covid19 tracker (Python Django, HighchartsJS):
     - Demo: https://covidlive-8jvw.onrender.com/
     - Repo: https://github.com/maurya-anand/covid19live
     
--   Word usage using dictionary API (ReactJS)
+-   Word usage using dictionary API (ReactJS):
     - Demo: https://dictionary-aa43b.web.app/
     - Repo: https://github.com/maurya-anand/react-dictionary
     
--   Netflix-clone using themoviedb API (ReactJS)
+-   Netflix-clone using themoviedb API (ReactJS):
     - Demo: https://netflix-react-a5dbe.web.app/
     - Repo: https://github.com/maurya-anand/netflix-react
     
@@ -68,7 +68,7 @@ In my previous roles, I've developed databases containing variant annotations an
 ![Jenkins](https://img.shields.io/badge/Jenkins-0078D4?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/Github%20Actions-0078D4?style=for-the-badge&logo=Github-Actions&logoColor=white)
 
-### Project managment
+### Project management
 
 ![Redmine](https://img.shields.io/badge/Redmine-0078D4?style=for-the-badge&logo=Redmine&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/Github%20Projects-0078D4?style=for-the-badge&logo=Github&logoColor=white)
