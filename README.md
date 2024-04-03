@@ -4,7 +4,9 @@ Thank you very much for checking out my GitHub page!
 
 ## 🎓 About Me
 
-I'm a bioinformatician with experience in next-generation sequencing (NGS) data analysis, data analysis pipeline creation, and full-stack web development.
+I'm a Bioinformatician and full-stack web developer, experienced in developing and automating next-generation sequencing (NGS) data analysis pipelines. My experience spans various aspects of bioinformatics and web development, including the analysis of clinical whole-exome, whole-genome, and RNA seq samples.
+
+In my previous roles, I've developed databases containing variant annotations and their allele frequencies across different populations using in-house cohorts. I've also created a real-time dashboard for users to monitor the status of the NGS variant calling pipeline and access QC metrics and other results. Additionally, I've contributed to the development of a novel machine learning approach that predicts the immunogenicity of a peptide using various features derived from amino-acid composition, HLA-binding, structural features, peptide processing, and peptide transport. My work experience also includes developing scripts and tools for interacting with public databases.
 
 ## 📝 Projects
 
