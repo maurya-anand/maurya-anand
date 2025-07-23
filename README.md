@@ -21,10 +21,10 @@ In my previous roles, I've developed databases containing variant annotations an
 -   ARA (Automated Record Analysis): An automatic pipeline for exploration of SRA datasets with sequences as a query (Perl, Docker)
     - Repo: https://github.com/maurya-anand/ARA
 
-- Get Bam Depth: A command-line utility to generate a customised report calculating depth of coverage from BAM, SAM, or CRAM files for a given threshold. (Perl)
+- Get Bam Depth: A command-line tool to generate a customised report calculating depth of coverage from BAM, SAM, or CRAM files for a given threshold. (Perl)
     - Repo: https://github.com/maurya-anand/getBamDepth
 
-- Variant Liftover: A command-line utility that performs variant liftover from hg19 to hg38 using `CHR`, `POS`, `REF`, and `ALT` (tsv) as input. (Make, Python, Docker)
+- Variant Liftover: A command-line tool for performing liftover of SNVs and InDels from hg19 to hg38, using `CHR`, `POS`, `REF`, and `ALT` (tsv) as input. (Make, Python, Docker)
     - Repo: https://github.com/maurya-anand/liftover
 
 -   Covid19 tracker: (Python Django, HighchartsJS)
