@@ -9,9 +9,11 @@ I'm a Bioinformatician and full-stack web developer, experienced in developing a
 In my previous roles, I've developed databases containing variant annotations and their allele frequencies across different populations using in-house cohorts. I've also created a real-time dashboard for users to monitor the status of the NGS variant calling pipeline and access QC metrics and other results. Additionally, I've contributed to the development of a novel machine-learning approach that predicts the immunogenicity of a peptide using various features derived from amino-acid composition, HLA-binding, structural features, peptide processing, and peptide transport. My work experience also includes developing scripts and tools for interacting with public databases.
 
 ## 📝 Projects
+- Developed and deployed bioinformatics workflows on cloud-based platforms such as [Terra.bio](https://terra.bio/) and [Verily Workbench](https://support.workbench.verily.com/), using Cromwell as the workflow engine and Google Cloud Platform (GCP) infrastructure.
+    - Checkout my Dockstore entries (`maurya-anand` OR `anand-imcm` OR `IMCM-OX`): [Visit Dockstore](https://dockstore.org/search?all_authors.name.keyword=Anand%20Maurya&organization=anand-imcm&organization=IMCM-OX&organization=maurya-anand&entryType=workflows&searchMode=files)
 
-- Developed and published various workflows using the Workflow Description Language (WDL): (`anand-imcm` OR `IMCM-OX` OR `maurya-anand`)
-    - [Visit Dockstore](https://dockstore.org/search?all_authors.name.keyword=Anand%20Maurya&organization=anand-imcm&organization=IMCM-OX&organization=maurya-anand&entryType=workflows&searchMode=files)
+- Gauchian Enrich: A variant annotator for variants called by Illumina Gauchian tool. (Perl, Make, Docker) 
+    - Repo: https://github.com/maurya-anand/gauchian-enrich
 
 -   SRA annotator: A command-line tool for retrieving annotations from the NCBI SRA database. (Python)
     - Repo: https://github.com/maurya-anand/sra-annotator
@@ -19,15 +21,21 @@ In my previous roles, I've developed databases containing variant annotations an
 -   ARA (Automated Record Analysis): An automatic pipeline for exploration of SRA datasets with sequences as a query (Perl, Docker)
     - Repo: https://github.com/maurya-anand/ARA
 
--   Covid19 tracker (Python Django, HighchartsJS):
+- Get Bam Depth: A command-line utility to generate a customised report calculating depth of coverage from BAM, SAM, or CRAM files for a given threshold. (Perl)
+    - Repo: https://github.com/maurya-anand/getBamDepth
+
+- Variant Liftover: A command-line utility that performs variant liftover from hg19 to hg38 using `CHR`, `POS`, `REF`, and `ALT` (tsv) as input. (Make, Python, Docker)
+    - Repo: https://github.com/maurya-anand/liftover
+
+-   Covid19 tracker: (Python Django, HighchartsJS)
     - Demo: https://covidlive-8jvw.onrender.com/
     - Repo: https://github.com/maurya-anand/covid19live
     
--   Word usage using dictionary API (ReactJS):
+-   Word usage using `dictionary API`: (ReactJS)
     - Demo: https://dictionary-aa43b.web.app/
     - Repo: https://github.com/maurya-anand/react-dictionary
     
--   Netflix-clone using themoviedb API (ReactJS):
+-   Netflix-clone using `themoviedb API`: (ReactJS)
     - Demo: https://netflix-react-a5dbe.web.app/
     - Repo: https://github.com/maurya-anand/netflix-react
     
@@ -35,9 +43,9 @@ In my previous roles, I've developed databases containing variant annotations an
 
 ### Bioinformatics
 
--   WGS, WES and RNA-seq data analysis
--   Somatic and germline variant calling and annotation
--   Data analysis pipeline development and automation
+-   Data analysis pipeline development and automation.
+-   Whole-genome, whole-exome, and RNA-seq analysis for short-read (Illumina) and long-read (PacBio HiFi) sequencing data.
+-   Somatic and germline variant calling and annotation.
 
 ### Languages
 
