@@ -12,9 +12,6 @@ In my previous roles, I've developed databases containing variant annotations an
 - Developed and deployed bioinformatics workflows on cloud-based platforms such as [Terra.bio](https://terra.bio/) and [Verily Workbench](https://support.workbench.verily.com/), using Cromwell as the workflow engine and Google Cloud Platform (GCP) infrastructure.
     - Checkout my Dockstore entries (`maurya-anand` OR `anand-imcm` OR `IMCM-OX`): [Visit Dockstore](https://dockstore.org/search?all_authors.name.keyword=Anand%20Maurya&organization=anand-imcm&organization=IMCM-OX&organization=maurya-anand&entryType=workflows&searchMode=files)
 
-- Gauchian Enrich: A variant annotator for variants called by Illumina Gauchian tool. (Perl, Make, Docker) 
-    - Repo: https://github.com/maurya-anand/gauchian-enrich
-
 -   SRA annotator: A command-line tool for retrieving annotations from the NCBI SRA database. (Python)
     - Repo: https://github.com/maurya-anand/sra-annotator
 
