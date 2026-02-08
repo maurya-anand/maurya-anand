@@ -26,7 +26,7 @@
 - **COVID-19 Tracker**: Real-time tracking of COVID-19 cases across the globe.
   - Tech Stack: **`Python Django`** **`HighchartsJS`** | [Code](https://github.com/maurya-anand/covid19live) | [Demo](https://covidlive-8jvw.onrender.com/)
 
-- **React Dictionary App**: A lghtweight React application for word definitions and pronunciation using a public dictionary API.
+- **React Dictionary App**: A lightweight React app for multi-language definitions and pronunciation using a public dictionary API.
   - Tech Stack: **`ReactJS`** | [Code](https://github.com/maurya-anand/react-dictionary) | [Demo](https://dictionary-aa43b.web.app/)
 
 - **Netflix UI clone**: A responsive UI using data from `themoviedb API`.
