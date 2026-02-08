@@ -1,115 +1,76 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"/>
+# Hi, I'm Anand Maurya
 
-Thank you very much for checking out my GitHub page!
-
-## 🎓 About Me
-
-I'm a Bioinformatician and full-stack web developer, experienced in developing and automating next-generation sequencing (NGS) data analysis pipelines. My experience spans various aspects of bioinformatics and web development, including the analysis of clinical whole-exome, whole-genome, and RNA-seq samples.
-
-In my previous roles, I've developed databases containing variant annotations and their allele frequencies across different populations using in-house cohorts. I've also created a real-time dashboard for users to monitor the status of the NGS variant calling pipeline and access QC metrics and other results. Additionally, I've contributed to the development of a novel machine-learning approach that predicts the immunogenicity of a peptide using various features derived from amino-acid composition, HLA-binding, structural features, peptide processing, and peptide transport. My work experience also includes developing scripts and tools for interacting with public databases.
-
-## 📝 Projects
-
-**Bioinformatics workflows for [Terra.bio](https://terra.bio/) and [Verily Workbench](https://support.workbench.verily.com/)**
-
-`WDL` `Docker` `Google Cloud Platform (GCP)`
-
-[Visit Dockstore](https://dockstore.org/search?all_authors.name.keyword=Anand%20Maurya&organization=anand-imcm&organization=IMCM-OX&organization=maurya-anand&entryType=workflows&searchMode=files)
+Bioinformatician and Full-Stack Developer building scalable genomics workflows and web applications for clinical and research settings.
 
 ---
 
-**SRA annotator: A command-line tool for retrieving annotations from the NCBI SRA database.**
+## Featured Projects
 
-`Python`
+### Multi-omic Workflows
+- **Terra.bio / Verily Workbench Genomics Workflows**: Production-grade WDL workflows for large-scale genomics analysis in cloud-based trusted research environments.
+  - **Tech Stack**: `WDL` `Google Cloud Platform (GCP)` `Docker` | [Visit Dockstore](https://dockstore.org/search?all_authors.name.keyword=Anand%20Maurya&organization=anand-imcm&organization=IMCM-OX&organization=maurya-anand&entryType=workflows&searchMode=files)
 
-[`Repository`](https://github.com/maurya-anand/sra-annotator)
+- **nf-rna-wasp-allele-count**: Genotype-aware RNA-seq pipeline using STAR+WASP for allele-specific read counting and variant allele fraction estimation.
+  - **Tech Stack**: `Nextflow` `Docker` | [Code](https://github.com/maurya-anand/nf-rna-wasp-allele-count)
 
----
+- **nf-ont-methpro**: Haplotype-resolved DNA methylation profiling pipeline for Oxford Nanopore (ONT) long-read sequencing.
+  - **Tech Stack**: `Nextflow` `Docker` | [Code](https://github.com/maurya-anand/nf-ont-methpro)
 
-**ARA (Automated Record Analysis): An automatic pipeline for exploration of SRA datasets with sequences as a query**
+- **nanomethylpredict**: Predict DNA methylation from ONT sequencing data without native methylation calls.
+  - **Tech Stack**: `Nextflow` `Docker` | [Code](https://github.com/maurya-anand/nanomethylpredict)
 
-`Perl` `Docker`
-
-[`Repository`](https://github.com/maurya-anand/ARA)
-
----
-
-**Get Bam Depth: A command-line tool to generate a customised report calculating depth of coverage from BAM, SAM, or CRAM files for a given threshold.**
-
-`Perl`
-
-[`Repository`](https://github.com/maurya-anand/getBamDepth)
+- **ARA (Automated Record Analysis)**: An automatic pipeline for exploration of SRA datasets with sequences as a query.
+  - **Tech Stack**: `Perl` `Docker` | [Code](https://github.com/maurya-anand/ARA)
 
 ---
 
-**Variant Liftover: A command-line tool for performing liftover of SNVs and InDels from hg19 to hg38, using `CHR`, `POS`, `REF`, and `ALT` (tsv) as input**
+### Web Applications
 
-`Make` `Python` `Docker`
+- **COVID-19 Tracker**: Real-time tracking of COVID-19 cases across the globe.
+  - **Tech Stack**: `Python Django` `HighchartsJS` | [Code](https://github.com/maurya-anand/covid19live) | [Demo](https://covidlive-8jvw.onrender.com/)
 
-[`Repository`](https://github.com/maurya-anand/liftover)
+- **React Dictionary App**: A lghtweight React application for word definitions and pronunciation using a public dictionary API.
+  - **Tech Stack**: `ReactJS` | [Code](https://github.com/maurya-anand/react-dictionary) | [Demo](https://dictionary-aa43b.web.app/)
 
----
-
-**Covid19 tracker**
-
-`Python Django` `HighchartsJS`
-
-[`Repository`](https://github.com/maurya-anand/covid19live) - [`Demo`](https://covidlive-8jvw.onrender.com/)
+- **Netflix UI clone**: A responsive UI using data from `themoviedb API`.
+  - **Tech Stack**: `ReactJS` | [Code](https://github.com/maurya-anand/netflix-react) | [Demo](https://netflix-react-a5dbe.web.app/)
 
 ---
 
-**Word usage using `dictionary API`**
+### Scientific Utilities & CLI Tools
 
-`ReactJS`
+- **gene-to-protein-domains**: Fetches protein domain positions & transcript info via UniProt/Ensembl APIs.
+  - **Tech Stack**: `Python` | [Code](https://github.com/maurya-anand/gene-to-protein-domains)
 
-[`Repository`](https://github.com/maurya-anand/react-dictionary) - [`Demo`](https://dictionary-aa43b.web.app/)
+- **gauchian-enrich**: A variant annotator for GBA variants called by Illumina Gauchian tool.
+  - **Tech Stack**: `Perl` `Docker` `Make` | [Code](https://github.com/maurya-anand/gauchian-enrich)
+
+- **Variant Liftover**: A tool for performing liftover of SNVs and InDels from hg19 to hg38, using `CHR`, `POS`, `REF`, and `ALT` (tsv) as input.
+  - **Tech Stack**:`Make` `Python` `Docker`| [Code](https://github.com/maurya-anand/liftover)
+
+- **SRA Annotator**: A command-line tool for retrieving annotations from the NCBI SRA.
+  - **Tech Stack**: `Python` | [Code](https://github.com/maurya-anand/sra-annotator)
+
+- **Get Bam Depth**: A command-line tool to generate customized depth of coverage reports from BAM/CRAM files.
+  - **Tech Stack**:`Perl` | [Code](https://github.com/maurya-anand/getBamDepth)
 
 ---
 
-**Netflix-clone using `themoviedb API`**
+## Tech Stack
 
-`ReactJS`
+- Languages: **`Perl`** **`Bash`** **`Python`** **`JavaScript`** **`R`** **`MySQL`**
 
-[`Repository`](https://github.com/maurya-anand/netflix-react) - [`Demo`](https://netflix-react-a5dbe.web.app/)
-    
-## 🛠️ Skills
+- Workflow Management: **`Nextflow`** **`GNU Make`** **`GNU Parallel`** **`WDL`**
 
-### Bioinformatics
+- Web Development: **`React`** **`Django`** **`RShiny`** **`Bootstrap`** **`jQuery`** **`Axios`** **`Django REST Framework`** **`Perl CGI`** **`Highcharts`** **`D3.js`** **`Plotly`**
 
--   Data analysis pipeline development and automation.
--   Whole-genome, whole-exome, and RNA-seq analysis for short-read (Illumina) and long-read (PacBio HiFi) sequencing data.
--   Somatic and germline variant calling and annotation.
+- Version Control: **`Git`** **`Subversion`**
 
-### Languages
+- Containerization & Package Management: **`Docker`** **`Conda`** **`Bioconda`** **`Mamba`** **`pip`**
 
-![Perl](https://img.shields.io/badge/Perl-0078D4?style=for-the-badge&logo=Perl&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-0078D4?style=for-the-badge&logo=GNU-Bash&logoColor=white) ![Python](https://img.shields.io/badge/Python-0078D4?style=for-the-badge&logo=Python&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-0078D4?style=for-the-badge&logo=Javascript&logoColor=white) ![R](https://img.shields.io/badge/R-0078D4?style=for-the-badge&logo=R&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-0078D4?style=for-the-badge&logo=MySQL&logoColor=white) 
+- Backend as a Service (BaaS): **`Render`** **`Heroku`** **`Firebase`**
 
-### Workflow management
+- CI/CD: **`Jenkins`** **`GitHub Actions`**
 
-![Nextflow](https://img.shields.io/badge/Nextflow-0078D4?style=for-the-badge&logo=Nextflow&logoColor=white) ![GNU Make](https://img.shields.io/badge/MAKE-0078D4?style=for-the-badge&logo=GNU&logoColor=white) ![GNU Parallel](https://img.shields.io/badge/Parallel-0078D4?style=for-the-badge&logo=GNU&logoColor=white) ![WDL](https://img.shields.io/badge/WDL-0078D4?style=for-the-badge&logo=WDL&logoColor=white)
+- Project Management: **`Redmine`** **`GitHub Projects`**
 
-### Web Development
-
-![React](https://img.shields.io/badge/React-0078D4?style=for-the-badge&logo=React&logoColor=white) ![Django](https://img.shields.io/badge/Django-0078D4?style=for-the-badge&logo=Django&logoColor=white) ![Shiny](https://img.shields.io/badge/Shiny-0078D4?style=for-the-badge&logo=R&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-0078D4?style=for-the-badge&logo=PHP&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-0078D4?style=for-the-badge&logo=Bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0078D4?style=for-the-badge&logo=jQuery&logoColor=white) ![Axios](https://img.shields.io/badge/Axios-0078D4?style=for-the-badge&logo=npm&logoColor=white) ![Django REST framework](https://img.shields.io/badge/Django%20REST%20framework-0078D4?style=for-the-badge&logo=Django&logoColor=white) ![Perl CGI](https://img.shields.io/badge/Perl%20CGI-0078D4?style=for-the-badge&logo=Perl&logoColor=white) ![Highcharts](https://img.shields.io/badge/Highcharts-0078D4?style=for-the-badge&logo=Javascript&logoColor=white) ![D3.js](https://img.shields.io/badge/D3.js-0078D4?style=for-the-badge&logo=D3.js&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-0078D4?style=for-the-badge&logo=Plotly&logoColor=white)
-
-### Version control
-
-![Git](https://img.shields.io/badge/Git-0078D4?style=for-the-badge&logo=Git&logoColor=white) ![Subversion](https://img.shields.io/badge/SVN-0078D4?style=for-the-badge&logo=Subversion&logoColor=white)
-
-### Containerization & Package management
-
-![Docker](https://img.shields.io/badge/Docker-0078D4?style=for-the-badge&logo=Docker&logoColor=white) ![Conda](https://img.shields.io/badge/Conda%20Bioconda-0078D4?style=for-the-badge&logo=Anaconda&logoColor=white) ![Mamba](https://img.shields.io/badge/Mamba-0078D4?style=for-the-badge&logo=condaforge&logoColor=white) ![Pip](https://img.shields.io/badge/Pip-0078D4?style=for-the-badge&logo=pypi&logoColor=white)
-
-### Backend as a Service (BaaS)
-
-![Render](https://img.shields.io/badge/Render-0078D4?style=for-the-badge&logo=Render&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-0078D4?style=for-the-badge&logo=Heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-0078D4?style=for-the-badge&logo=Firebase&logoColor=white)
-
-### CI/CD
-
-![Jenkins](https://img.shields.io/badge/Jenkins-0078D4?style=for-the-badge&logo=Jenkins&logoColor=white)
-![Github Actions](https://img.shields.io/badge/Github%20Actions-0078D4?style=for-the-badge&logo=Github-Actions&logoColor=white)
-
-### Project management
-
-![Redmine](https://img.shields.io/badge/Redmine-0078D4?style=for-the-badge&logo=Redmine&logoColor=white)
-![Github Actions](https://img.shields.io/badge/Github%20Projects-0078D4?style=for-the-badge&logo=Github&logoColor=white)
