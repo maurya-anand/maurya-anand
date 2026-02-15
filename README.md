@@ -1,6 +1,6 @@
 # Hi, I'm Anand Maurya
 
-**Bioinformatician** and **Full-Stack Developer** building scalable genomics workflows and web applications for clinical and research settings.
+**Bioinformatics Scientist** and **Full-Stack Developer** building scalable genomics workflows and web applications for clinical and research settings.
 
 ## Featured Projects
 
