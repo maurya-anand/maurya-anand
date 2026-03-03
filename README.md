@@ -54,18 +54,18 @@
 
 ## My Tech Stack
 
-- Languages: **`Perl`** **`Bash`** **`Python`** **`JavaScript`** **`R`** **`MySQL`**
+- Languages: **`Perl`** **`Python`** **`Bash`** **`JavaScript`** **`R`** **`MySQL`**
 
-- Workflow Management: **`Nextflow`** **`GNU Make`** **`GNU Parallel`** **`WDL`**
+- Workflow Management: **`Nextflow`** **`WDL`** **`GNU Make`** 
 
 - Web Development: **`React`** **`Django`** **`RShiny`** **`Bootstrap`** **`jQuery`** **`Axios`** **`Django REST Framework`** **`Perl CGI`** **`Highcharts`** **`D3.js`** **`Plotly`**
 
 - Version Control: **`Git`** **`Subversion`**
 
-- Containerization & Package Management: **`Docker`** **`Conda`** **`Bioconda`** **`Mamba`** **`pip`**
+- Containerization & Package Management: **`Docker`** **`uv`** **`Mamba`**
 
 - Backend as a Service (BaaS): **`Render`** **`Heroku`** **`Firebase`**
 
-- CI/CD: **`Jenkins`** **`GitHub Actions`**
+- CI/CD: **`GitHub Actions`** **`Jenkins`**
 
-- Project Management: **`Redmine`** **`GitHub Projects`**
+- Project Management: **`GitHub Projects`** **`Redmine`**
