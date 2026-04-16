@@ -23,6 +23,9 @@
 
 ### Web Applications
 
+- **VarSnap**: A web application to visualize human genetic variants on a gene’s protein domains and transcript structure.
+  - Tech Stack: **`Python Django`** **`Javascript`** **`D3.js`** | [Demo](https://varsnap.onrender.com/)
+
 - **COVID-19 Tracker**: Real-time tracking of COVID-19 cases across the globe.
   - Tech Stack: **`Python Django`** **`HighchartsJS`** | [Code](https://github.com/maurya-anand/covid19live) | [Demo](https://covidlive-8jvw.onrender.com/)
 
