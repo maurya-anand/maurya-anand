@@ -1,6 +1,6 @@
 # Hi, I'm Anand Maurya
 
-**Bioinformatics Scientist** and **Full-Stack Developer** building scalable genomics workflows and web applications for clinical and research settings.
+**Bioinformatics Scientist** with nearly a decade of experience building scalable NGS pipelines, cloud-based workflows, and full-stack web applications for clinical genomics and multi-omics research. 
 
 ## Featured Projects
 
@@ -8,14 +8,17 @@
 - **Terra.bio / Verily Workbench Genomics Workflows**: Production-grade WDL workflows for large-scale genomics analysis in cloud-based trusted research environments.
   - Tech Stack: **`WDL`** **`Google Cloud Platform (GCP)`** **`Docker`** | [Visit Dockstore](https://dockstore.org/search?all_authors.name.keyword=Anand%20Maurya&organization=anand-imcm&organization=IMCM-OX&organization=maurya-anand&entryType=workflows&searchMode=files)
 
+- **BiomarkerML**: A cloud-based ML/DL workflow for proteomic biomarker discovery, combining nested cross-validation with SHAP-based feature ranking and protein network expansion.
+  - Tech Stack: **`WDL`** **`GCP`** **`Docker`** | [Code](https://github.com/anand-imcm/proteomics-ML-workflow)  | [Demo](https://dockstore.org/workflows/github.com/anand-imcm/proteomics-ML-workflow:v1.0.2?tab=info)
+
+- **wgs-varcall**: A cloud-based WGS variant calling pipeline with targeted GBA variant detection using Gauchian.
+  - Tech Stack: **`WDL`** **`GCP`** **`Docker`** | [Code](https://github.com/anand-imcm/wgs-varcall)  | [Demo](https://dockstore.org/workflows/github.com/anand-imcm/wgs-varcall:v1.0.0?tab=info)
+
 - **nf-rna-wasp-allele-count**: Genotype-aware RNA-seq pipeline using STAR+WASP for allele-specific read counting and variant allele fraction estimation.
   - Tech Stack: **`Nextflow`** **`Docker`** | [Code](https://github.com/maurya-anand/nf-rna-wasp-allele-count)
 
 - **nf-ont-methpro**: Haplotype-resolved DNA methylation profiling pipeline for Oxford Nanopore (ONT) long-read sequencing.
   - Tech Stack: **`Nextflow`** **`Docker`** | [Code](https://github.com/maurya-anand/nf-ont-methpro)
-
-- **nanomethylpredict**: Predict DNA methylation from ONT sequencing data without native methylation calls.
-  - Tech Stack: **`Nextflow`** **`Docker`** | [Code](https://github.com/maurya-anand/nanomethylpredict)
 
 - **ARA (Automated Record Analysis)**: An automatic pipeline for exploration of SRA datasets with sequences as a query.
   - Tech Stack: **`Perl`** **`Docker`** | [Code](https://github.com/maurya-anand/ARA)
