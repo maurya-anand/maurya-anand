@@ -23,23 +23,10 @@
 - **ARA (Automated Record Analysis)**: An automatic pipeline for exploration of SRA datasets with sequences as a query.
   - Tech Stack: **`Perl`** **`Docker`** | [Code](https://github.com/maurya-anand/ARA)
 
-
-### Web Applications
+### Scientific tools & Applications
 
 - **VarSnap**: A web application for visualization of human genetic variants in protein-domain and transcript context
   - Tech Stack: **`Python Django`** **`Javascript`** **`D3.js`** | [Demo](https://varsnap.onrender.com/)
-
-- **COVID-19 Tracker**: Real-time tracking of COVID-19 cases across the globe.
-  - Tech Stack: **`Python Django`** **`HighchartsJS`** | [Code](https://github.com/maurya-anand/covid19live) | [Demo](https://covidlive-8jvw.onrender.com/)
-
-- **React Dictionary App**: A lightweight React app for multi-language definitions and pronunciation using a public dictionary API.
-  - Tech Stack: **`ReactJS`** | [Code](https://github.com/maurya-anand/react-dictionary) | [Demo](https://dictionary-aa43b.web.app/)
-
-- **Netflix UI clone**: A responsive UI using data from `themoviedb API`.
-  - Tech Stack: **`ReactJS`** | [Code](https://github.com/maurya-anand/netflix-react) | [Demo](https://netflix-react-a5dbe.web.app/)
-
-
-### Scientific Utilities & CLI Tools
 
 - **gene-to-protein-domains**: Fetches protein domain positions & transcript info via UniProt/Ensembl APIs.
   - Tech Stack: **`Python`** | [Code](https://github.com/maurya-anand/gene-to-protein-domains)
