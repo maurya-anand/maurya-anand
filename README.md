@@ -6,7 +6,7 @@
 
 ### Multi-omic Workflows
 - **Terra.bio / Verily Workbench Genomics Workflows**: Production-grade WDL workflows for large-scale genomics analysis in cloud-based trusted research environments.
-  - Tech Stack: **`WDL`** **`Google Cloud Platform (GCP)`** **`Docker`** | [Visit Dockstore](https://dockstore.org/search?all_authors.name.keyword=Anand%20Maurya&organization=anand-imcm&organization=IMCM-OX&organization=maurya-anand&entryType=workflows&searchMode=files)
+  - Tech Stack: **`WDL`** **`Google Cloud Platform (GCP)`** **`Docker`** | [Visit Dockstore](https://dockstore.org/search?organization=anand-imcm&organization=maurya-anand&entryType=workflows&searchMode=files)
 
 - **BiomarkerML**: A cloud-based ML/DL workflow for proteomic biomarker discovery, combining nested cross-validation with SHAP-based feature ranking and protein network expansion.
   - Tech Stack: **`WDL`** **`GCP`** **`Docker`** | [Code](https://github.com/anand-imcm/proteomics-ML-workflow)  | [Demo](https://dockstore.org/workflows/github.com/anand-imcm/proteomics-ML-workflow:v1.0.2?tab=info)
