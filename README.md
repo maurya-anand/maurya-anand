@@ -25,8 +25,8 @@
 
 ### Scientific tools & Applications
 
-- **VarSnap**: A web application for visualization of human genetic variants in protein-domain and transcript context
-  - Tech Stack: **`Python Django`** **`Javascript`** **`D3.js`** | [Demo](https://varsnap.onrender.com/ "Hosted on Render free tier, it may take ~30s to wake up on first load.")
+- **VarSnap**: A web application for visualization of human genetic variants in protein-domain and transcript context.
+  - Tech Stack: **`Python Django`** **`Javascript`** **`D3.js`** | [Demo](https://varsnap.onrender.com/ "Hosted on Render free tier, it may take ~30s to wake up on first load.") <sup>("Hosted on Render free tier, it may take ~30s to wake up on first load")</sup>
 
 - **gene-to-protein-domains**: Fetches protein domain positions & transcript info via UniProt/Ensembl APIs.
   - Tech Stack: **`Python`** | [Code](https://github.com/maurya-anand/gene-to-protein-domains)
