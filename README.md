@@ -47,18 +47,20 @@
 
 ## My Tech Stack
 
-- Languages: **`Perl`** **`Python`** **`Bash`** **`JavaScript`** **`R`** **`MySQL`**
+* Languages: **`Python`** **`Perl`** **`Bash`** **`JavaScript`** **`R`**  **`SQL`**
+  
+* Workflow Management: **`Nextflow`** **`WDL`** **`Make`**
 
-- Workflow Management: **`Nextflow`** **`WDL`** **`GNU Make`** 
+* Version Control: **`Git`** **`SVN`**
 
-- Version Control: **`Git`** **`Subversion`**
+* Containerisation & Package Management: **`Docker`** **`Apptainer`** **`Mamba`** **`Conda`** **`UV`** **`Pip`**
 
-- Containerization & Package Management: **`Docker`** **`uv`** **`Mamba`**
+* CI/CD: **`GitHub Actions`** **`Jenkins`**
 
-- CI/CD: **`GitHub Actions`** **`Jenkins`**
+* Web Development: **`Django`** **`Django Rest Framework`** **`React`** **`Bootstrap`** **`D3.js`** **`HighCharts`** **`jQuery`** **`Plotly`** **`Perl CGI`**
 
-- Web Development: **`React`** **`Django`** **`RShiny`** **`Bootstrap`** **`jQuery`** **`Axios`** **`Django REST Framework`** **`Perl CGI`** **`Highcharts`** **`D3.js`** **`Plotly`**
+* Hosting: **`Render`** **`Heroku`** **`Firebase`**
 
-- Hosting: **`Render`** **`Heroku`** **`Firebase`**
+* Cloud, TRE & HPC Platforms: **`Google Cloud Platform (GCP)`** **`Terra.bio`** **`Verily Workbench`** **`SLURM`** **`PBS`**
 
-- Project Management: **`GitHub Projects`** **`Redmine`**
+* Project Management & Documentation: **`GitHub Projects`** **`Confluence`** **`Markdown`** **`Quarto`** **`Redmine`**
