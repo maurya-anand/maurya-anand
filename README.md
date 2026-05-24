@@ -51,13 +51,13 @@
   
 * Workflow Management: **`Nextflow`** **`WDL`** **`Make`**
 
-* Version Control: **`Git`** **`SVN`**
+* Version Control: **`Git`** **`Subversion`**
 
 * Containerisation & Package Management: **`Docker`** **`Apptainer`** **`Mamba`** **`Conda`** **`UV`** **`Pip`**
 
 * CI/CD: **`GitHub Actions`** **`Jenkins`**
 
-* Web Development: **`Django`** **`Django Rest Framework`** **`React`** **`Bootstrap`** **`D3.js`** **`HighCharts`** **`jQuery`** **`Plotly`** **`Perl CGI`**
+* Web Development: **`React`** **`Django`** **`Django Rest Framework`** **`Bootstrap`** **`D3.js`** **`HighCharts`** **`jQuery`** **`Plotly`** **`Perl CGI`**
 
 * Hosting: **`Render`** **`Heroku`** **`Firebase`**
 
